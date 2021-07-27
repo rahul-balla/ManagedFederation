@@ -1,0 +1,20 @@
+{
+	"name": "service_3",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index_service_3.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@apollo/federation": "^0.20.7",
+		"apollo-server": "^2.19.1",
+		"apollo-server-express": "^2.19.1",
+		"axios": "^0.21.1",
+		"express": "^4.17.1",
+		"graphql": "^15.4.0",
+		"node-fetch": "^2.6.1"
+	}
+}
